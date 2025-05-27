@@ -7,6 +7,7 @@
 >   - navigation
 > - linear regression
 >   - an example in the model part
+>   - graph for simple linear regression for demonstration
 >   - normal equation
 > - logistic regression
 >   - binary

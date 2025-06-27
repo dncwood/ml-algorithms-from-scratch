@@ -11,4 +11,4 @@
 >   - normal equation
 > - logistic regression
 >   - binary
->   - multinomial
+>       - newton's method
